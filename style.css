@@ -3,7 +3,8 @@
 /* Fonts */
 
 body {
-  background-color: pink;
+  /* background-color: pink; */
+  background-image: url(./images/pink_background2.jpg);
   font-family: 'Open Sans', sans-serif;
   font-size: 18px ;
   font-weight: 400;
@@ -31,7 +32,7 @@ a:hover {
 /* Design */
 
 .container {
-  width: 700px;   /* This sets the width */
+  width: 750px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
 
@@ -55,7 +56,7 @@ a:hover {
 }
 
 .img-circle {
-  border-radius: 43%;
+  border-radius: 45%;
 }
 
 .text-center {
